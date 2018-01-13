@@ -8,6 +8,7 @@ using Shop.Web.Models;
 
 namespace Shop.Web.Controllers
 {
+  
     public class HomeController : Controller
     {
         public IActionResult Index()
